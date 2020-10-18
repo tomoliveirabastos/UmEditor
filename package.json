@@ -1,0 +1,19 @@
+{
+  "name": "UmEditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "build": "nexe index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "iohook": "^0.6.6",
+    "nexe": "^3.3.7",
+    "node-key-sender": "^1.0.11"
+  }
+}
